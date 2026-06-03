@@ -2,7 +2,7 @@
 
 **Backend-focused Software Engineer** based in Lagos, Nigeria.
 
-I specialise in REST API design, domain modeling, and building systems that handle real operational complexity. Currently co-engineering **[TourneyOps](https://tourneyops.com)** with [@emmanuelkayode](https://github.com/emmanuelkayode) — a live multi-sport tournament management platform.
+I specialise in REST API design, domain modeling, and building systems that handle real operational complexity. Currently co-engineering **[TourneyOps](https://tourneyops.com)** with [@tobi007](https://github.com/emmanuelkayode) — a live multi-sport tournament management platform.
 
 ---
 
