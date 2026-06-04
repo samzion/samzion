@@ -23,10 +23,10 @@ I specialise in REST API design, domain modeling, and building systems that hand
 | Project | What it is | Stack | Status |
 |---------|-----------|-------|--------|
 | [TourneyOps](https://github.com/samzion/tourneyops-showcase.git) | Multi-sport tournament management platform — multi-role user system, player profiling, competition lifecycle. Co-engineered with [@tobi007](https://github.com/emmanuelkayode) | Java 17 · Spring Boot · PostgreSQL · JWT · Liquibase · Next.js | 🟡 Live — active iteration |
+| [E-Commerce Microservices](https://github.com/samzion/ecommerce-microservices-java) | Three-service e-commerce backend built in pure Java — no Spring, no ORM. Raw HTTP server, raw JDBC, inter-service communication, pay-later loans, per-merchant payment distribution | Java 17 · `com.sun.net.httpserver` · Raw JDBC · PostgreSQL · Gson | ✅ Feature complete |
 | [PowerPulse](https://github.com/samzion/powerpulse) | Energy monitoring system for Nigeria — tracks generator, NEPA, and inverter usage with cost analytics and fuel prediction | Java 17 · Spring Boot 4 · PostgreSQL · Next.js | 🔵 In development |
 | [RoutePilot](https://github.com/samzion/route-pilot-be) | Logistics delivery orchestration for Lagos SMEs — vendor/rider management, delivery state machine, immutable audit trail | Java 21 · Spring Boot 3.3 · PostgreSQL · MapStruct · Swagger | 🔵 In development |
 | [JobFinder](https://github.com/samzion/JobPortal-Full-Stack) | Two-sided job marketplace — job seekers, employers, anonymous voting, application lifecycle | Java 17 · Spring Boot 4.0 · React 18 · PostgreSQL · JWT | 🔵 In development |
-| [E-Commerce Microservices](https://github.com/samzion/ecommerce-microservices-java) | Three-service e-commerce backend built in pure Java — no Spring, no ORM. Raw HTTP server, raw JDBC, inter-service communication, pay-later loans, per-merchant payment distribution | Java 17 · `com.sun.net.httpserver` · Raw JDBC · PostgreSQL · Gson | ✅ Feature complete |
 | [30 Days DSA](https://github.com/samzion/30-days-dsa-java) | Daily LeetCode/HackerRank problems in Java — learning in public | Java | 🟢 Active |
 
 ---
