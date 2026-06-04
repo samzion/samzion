@@ -22,7 +22,7 @@ I specialise in REST API design, domain modeling, and building systems that hand
 
 | Project | What it is | Stack | Status |
 |---------|-----------|-------|--------|
-| [TourneyOps](https://github.com/samzion/BackendTourneyOps) | Multi-sport tournament management platform — multi-role user system, player profiling, competition lifecycle. Co-engineered with [@tobi007](https://github.com/emmanuelkayode) | Java 17 · Spring Boot · PostgreSQL · JWT · Liquibase · Next.js | 🟡 Live — active iteration |
+| [TourneyOps](https://github.com/samzion/tourneyops-showcase.git) | Multi-sport tournament management platform — multi-role user system, player profiling, competition lifecycle. Co-engineered with [@tobi007](https://github.com/emmanuelkayode) | Java 17 · Spring Boot · PostgreSQL · JWT · Liquibase · Next.js | 🟡 Live — active iteration |
 | [PowerPulse](https://github.com/samzion/powerpulse) | Energy monitoring system for Nigeria — tracks generator, NEPA, and inverter usage with cost analytics and fuel prediction | Java 17 · Spring Boot 4 · PostgreSQL · Next.js | 🔵 In development |
 | [RoutePilot](https://github.com/samzion/route-pilot-be) | Logistics delivery orchestration for Lagos SMEs — vendor/rider management, delivery state machine, immutable audit trail | Java 21 · Spring Boot 3.3 · PostgreSQL · MapStruct · Swagger | 🔵 In development |
 | [JobFinder](https://github.com/samzion/JobPortal-Full-Stack) | Two-sided job marketplace — job seekers, employers, anonymous voting, application lifecycle | Java 17 · Spring Boot 4.0 · React 18 · PostgreSQL · JWT | 🔵 In development |
