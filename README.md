@@ -26,6 +26,7 @@ I specialise in REST API design, domain modeling, and building systems that hand
 | [E-Commerce Microservices](https://github.com/samzion/ecommerce-microservices-java) | Three-service e-commerce backend built in pure Java — no Spring, no ORM. Raw HTTP server, raw JDBC, inter-service communication, pay-later loans, per-merchant payment distribution | Java 17 · `com.sun.net.httpserver` · Raw JDBC · PostgreSQL · Gson | ✅ Feature complete |
 | [PowerPulse](https://github.com/samzion/powerpulse) | Energy monitoring system for Nigeria — tracks generator, NEPA, and inverter usage with cost analytics and fuel prediction | Java 17 · Spring Boot 4 · PostgreSQL · Next.js | 🔵 In development |
 | [RoutePilot](https://github.com/samzion/route-pilot-be) | Logistics delivery orchestration for Lagos SMEs — vendor/rider management, delivery state machine, immutable audit trail | Java 21 · Spring Boot 3.3 · PostgreSQL · MapStruct · Swagger | 🔵 In development |
+| [Event Processing System](https://github.com/samzion/event-processing-system) | 12-phase Java concurrency and distributed systems project — raw threads to Kafka, idempotency, and Saga pattern. Built against CBN data residency requirements (Jan 2027) | Java 21 · Pure Java · Concurrency · Distributed Systems | ✅ Complete |
 | [JobFinder](https://github.com/samzion/JobPortal-Full-Stack) | Two-sided job marketplace — job seekers, employers, anonymous voting, application lifecycle | Java 17 · Spring Boot 4.0 · React 18 · PostgreSQL · JWT | 🔵 In development |
 | [30 Days DSA](https://github.com/samzion/30-days-dsa-java) | Daily LeetCode/HackerRank problems in Java — learning in public | Java | 🟢 Active |
 
@@ -33,6 +34,7 @@ I specialise in REST API design, domain modeling, and building systems that hand
 
 ### 🧠 What I'm focused on
 
+- Completed a 12-phase Java concurrency curriculum — threads, ExecutorService, atomics, virtual threads, Kafka, distributed transactions
 - Building PowerPulse — energy monitoring for the Nigerian context
 - Finishing RoutePilot's delivery state machine and service layer
 - Iterating on TourneyOps UX toward full public launch
